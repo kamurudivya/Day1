@@ -1,0 +1,6 @@
+# Project exclude paths
+/PalindromeNumber/target/
+/reverseforloop/target/
+/reversewhileloop/target/
+/target/
+/whileloopsum/target/
